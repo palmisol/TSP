@@ -7,7 +7,5 @@ Travelling Salesman Problem is an algorithm that calculates the shortest path be
 * Stochastic Hill Climber
 * Simulated Annealing
 
-
-![Image of TSP tool GUI]
-(https://github.com/palmisol/TSP/blob/main/TSP-GUI.png)
+![Image of TSP tool GUI](https://raw.githubusercontent.com/palmisol/TSP/main/TSP-GUI.png)
 
