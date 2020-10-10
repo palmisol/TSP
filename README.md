@@ -22,7 +22,7 @@ Travelling Salesman Problem is an algorithm that calculates the shortest path be
 
 1. Download or clone the repository
 2. Open the folder with your favourite IDE. 
-3. Go to gui/GUI.java. 
+3. Go to [src/gui/GUI.java](https://github.com/palmisol/TSP/blob/main/src/gui/GUI.java) 
 4. Run the main method. 
 
 
